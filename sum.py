@@ -8,4 +8,3 @@ else:
     print("number you have entered is odd")
 
 print("adding some stuffs")
-print ("hello ")
